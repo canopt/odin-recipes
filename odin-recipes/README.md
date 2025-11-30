@@ -1,0 +1,3 @@
+# odin-recipes
+Project: Recipes / Final lesson in HTML Foundations
+This project is about creating three web pages that demonstrate some recipes. I finally completed it, but there's still room for improvement. I can for instance add some fancy graphical tables and include deeper information about the foods, once I learned CSS or even JavaScript. So far I learned and applied setting up a web page with using HTML functions like ordered and unordered list, image and text implementation. I made sub pages accessible from home page and vice-versa for easy navigation.
